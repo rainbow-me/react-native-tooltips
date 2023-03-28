@@ -15,6 +15,7 @@
     "url": "https://github.com/prscX/react-native-tooltips.git"
   },
   "dependencies": {
+    "deprecated-react-native-prop-types": "2.2.0"
   },
   "devDependencies": {
     "prettier-pack": "0.0.8"

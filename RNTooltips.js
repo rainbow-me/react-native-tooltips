@@ -1,11 +1,11 @@
 import { PureComponent } from "react";
 import {
   findNodeHandle,
-  ViewPropTypes,
   NativeModules,
   Platform
 } from "react-native";
 import PropTypes from "prop-types";
+import { ViewPropTypes } from "deprecated-react-native-prop-types";
 
 let { RNTooltips } = NativeModules;
 
